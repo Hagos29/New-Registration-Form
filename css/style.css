@@ -1,0 +1,61 @@
+body {
+	background-image: url('../images/sunrise.jpg');
+	
+    
+}
+.form1{
+    width: 25%;
+    margin:50px 500px  300px ;
+    border: 1px solid;
+    text-align: 50px;
+    border-radius: 20px;
+    background-color: brown;
+	opacity: 0.7;
+    padding: 10px;
+    position: relative;
+    
+
+}
+
+.form1 h1{
+	text-align: center;
+	color: #fff;
+	padding-top: 2px;
+	font-family: sans-serif;
+	font-weight: 800;
+}
+.form1 label{
+	font-weight: bold;
+	padding-left: 15px;
+	color: rgb(14, 13, 13);
+
+} 
+.form1 input{
+	display: block;
+	line-height: 1.9em;
+	width: 90%;
+	padding: 5px;
+	border:none;
+	background-color:#fff;
+	color: #3ccc;
+	border-bottom: 1px dotted black;
+	border-radius: 15px;
+	margin: 8px;
+	margin-top: 5px;
+}
+.form1 input[type="submit"]{
+border: none;
+background-color:tomato;
+border: 1px solid;
+margin-bottom: 10px;
+width: 60%;
+margin-left: 65px;
+padding: 3px;
+font:16px;
+font-weight: bold;
+margin-top: 20px;
+color: rgb(12, 11, 11);
+
+}
+
+
